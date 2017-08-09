@@ -1,0 +1,11 @@
+C:\Users\Mike\documents\visual studio 2017\Projects\DemoCompany\Demo.Domain\obj\Debug\Demo.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Mike\documents\visual studio 2017\Projects\DemoCompany\Demo.Domain\bin\Debug\Demo.Domain.dll
+C:\Users\Mike\documents\visual studio 2017\Projects\DemoCompany\Demo.Domain\bin\Debug\Demo.Domain.pdb
+C:\Users\Mike\documents\visual studio 2017\Projects\DemoCompany\Demo.Domain\bin\Debug\AutoMapper.dll
+C:\Users\Mike\documents\visual studio 2017\Projects\DemoCompany\Demo.Domain\bin\Debug\Dapper.dll
+C:\Users\Mike\documents\visual studio 2017\Projects\DemoCompany\Demo.Domain\bin\Debug\Demo.Utility.dll
+C:\Users\Mike\documents\visual studio 2017\Projects\DemoCompany\Demo.Domain\bin\Debug\Demo.Utility.pdb
+C:\Users\Mike\documents\visual studio 2017\Projects\DemoCompany\Demo.Domain\bin\Debug\AutoMapper.xml
+C:\Users\Mike\documents\visual studio 2017\Projects\DemoCompany\Demo.Domain\bin\Debug\Dapper.xml
+C:\Users\Mike\documents\visual studio 2017\Projects\DemoCompany\Demo.Domain\obj\Debug\Demo.Domain.dll
+C:\Users\Mike\documents\visual studio 2017\Projects\DemoCompany\Demo.Domain\obj\Debug\Demo.Domain.pdb

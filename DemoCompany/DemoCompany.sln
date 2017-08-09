@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tier 2", "Tier 2", "{C6D09466-00A8-42CF-A96A-A15D6ED4E41F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Layer 1 Service", "Layer 1 Service", "{7A5AEB80-3994-4F7C-AD24-0B71DBDA0BD0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Layer 2 Business", "Layer 2 Business", "{D9DE138F-D55A-4CD6-9D22-764A4ADAD453}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Layer 3 Resource", "Layer 3 Resource", "{10EB4804-D1C0-441D-A7F6-2BA11EF1BF82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Resource", "Demo.Resource\Demo.Resource.csproj", "{466AF778-7ECE-4522-BF81-3E3202666286}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Domain", "Demo.Domain\Demo.Domain.csproj", "{1A458ECC-1A08-4E93-B2B4-21F74BE65259}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Services", "Demo.Services\Demo.Services.csproj", "{DF676C48-04F1-415F-8185-B4DB687F2DB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Services.Host", "Demo.Services.Host\Demo.Services.Host.csproj", "{8D519546-3629-4E6F-B122-440F8D758E83}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Utility", "Utility", "{9A5F6939-3484-4F9B-86F3-9504430F7666}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Utility", "Demo.Utility\Demo.Utility.csproj", "{81A5AD75-BBE5-4F08-9EB2-F0647784C8D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{466AF778-7ECE-4522-BF81-3E3202666286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{466AF778-7ECE-4522-BF81-3E3202666286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{466AF778-7ECE-4522-BF81-3E3202666286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{466AF778-7ECE-4522-BF81-3E3202666286}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A458ECC-1A08-4E93-B2B4-21F74BE65259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A458ECC-1A08-4E93-B2B4-21F74BE65259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A458ECC-1A08-4E93-B2B4-21F74BE65259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A458ECC-1A08-4E93-B2B4-21F74BE65259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF676C48-04F1-415F-8185-B4DB687F2DB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF676C48-04F1-415F-8185-B4DB687F2DB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF676C48-04F1-415F-8185-B4DB687F2DB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF676C48-04F1-415F-8185-B4DB687F2DB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D519546-3629-4E6F-B122-440F8D758E83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D519546-3629-4E6F-B122-440F8D758E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D519546-3629-4E6F-B122-440F8D758E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D519546-3629-4E6F-B122-440F8D758E83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81A5AD75-BBE5-4F08-9EB2-F0647784C8D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81A5AD75-BBE5-4F08-9EB2-F0647784C8D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81A5AD75-BBE5-4F08-9EB2-F0647784C8D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81A5AD75-BBE5-4F08-9EB2-F0647784C8D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7A5AEB80-3994-4F7C-AD24-0B71DBDA0BD0} = {C6D09466-00A8-42CF-A96A-A15D6ED4E41F}
+		{D9DE138F-D55A-4CD6-9D22-764A4ADAD453} = {C6D09466-00A8-42CF-A96A-A15D6ED4E41F}
+		{10EB4804-D1C0-441D-A7F6-2BA11EF1BF82} = {C6D09466-00A8-42CF-A96A-A15D6ED4E41F}
+		{466AF778-7ECE-4522-BF81-3E3202666286} = {10EB4804-D1C0-441D-A7F6-2BA11EF1BF82}
+		{1A458ECC-1A08-4E93-B2B4-21F74BE65259} = {D9DE138F-D55A-4CD6-9D22-764A4ADAD453}
+		{DF676C48-04F1-415F-8185-B4DB687F2DB5} = {7A5AEB80-3994-4F7C-AD24-0B71DBDA0BD0}
+		{8D519546-3629-4E6F-B122-440F8D758E83} = {7A5AEB80-3994-4F7C-AD24-0B71DBDA0BD0}
+		{9A5F6939-3484-4F9B-86F3-9504430F7666} = {C6D09466-00A8-42CF-A96A-A15D6ED4E41F}
+		{81A5AD75-BBE5-4F08-9EB2-F0647784C8D2} = {9A5F6939-3484-4F9B-86F3-9504430F7666}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Validation.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Validation.Integration.WCF.6.0.1304.0\lib\NET45
+	EndGlobalSection
+EndGlobal

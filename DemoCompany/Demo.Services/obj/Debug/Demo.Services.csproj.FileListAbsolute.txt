@@ -1,0 +1,13 @@
+C:\Users\Mike\documents\visual studio 2017\Projects\DemoCompany\Demo.Services\bin\Debug\Demo.Services.dll
+C:\Users\Mike\documents\visual studio 2017\Projects\DemoCompany\Demo.Services\bin\Debug\Demo.Services.pdb
+C:\Users\Mike\documents\visual studio 2017\Projects\DemoCompany\Demo.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Mike\documents\visual studio 2017\Projects\DemoCompany\Demo.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\Mike\documents\visual studio 2017\Projects\DemoCompany\Demo.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WCF.dll
+C:\Users\Mike\documents\visual studio 2017\Projects\DemoCompany\Demo.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Mike\documents\visual studio 2017\Projects\DemoCompany\Demo.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\Users\Mike\documents\visual studio 2017\Projects\DemoCompany\Demo.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WCF.xml
+C:\Users\Mike\documents\visual studio 2017\Projects\DemoCompany\Demo.Services\obj\Debug\Demo.Services.dll
+C:\Users\Mike\documents\visual studio 2017\Projects\DemoCompany\Demo.Services\obj\Debug\Demo.Services.pdb
+C:\Users\Mike\documents\visual studio 2017\Projects\DemoCompany\Demo.Services\bin\Debug\AutoMapper.dll
+C:\Users\Mike\documents\visual studio 2017\Projects\DemoCompany\Demo.Services\bin\Debug\AutoMapper.xml
+C:\Users\Mike\documents\visual studio 2017\Projects\DemoCompany\Demo.Services\obj\Debug\Demo.Services.csprojResolveAssemblyReference.cache

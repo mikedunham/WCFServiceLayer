@@ -1,0 +1,5 @@
+C:\Users\Mike\documents\visual studio 2017\Projects\DemoCompany\Demo.Resource\bin\Debug\Demo.Resource.dll
+C:\Users\Mike\documents\visual studio 2017\Projects\DemoCompany\Demo.Resource\bin\Debug\Demo.Resource.pdb
+C:\Users\Mike\documents\visual studio 2017\Projects\DemoCompany\Demo.Resource\obj\Debug\Demo.Resource.dll
+C:\Users\Mike\documents\visual studio 2017\Projects\DemoCompany\Demo.Resource\obj\Debug\Demo.Resource.pdb
+C:\Users\Mike\documents\visual studio 2017\Projects\DemoCompany\Demo.Resource\obj\Debug\Demo.Resource.csprojResolveAssemblyReference.cache
